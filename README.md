@@ -50,8 +50,3 @@ The project follows a **Layered Architecture (N-Tier)** to ensure separation of 
 | **Docker** | Containerization for consistent environments |
 
 
-### Installation
-1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/your-username/doc-video-api.git](https://github.com/your-username/doc-video-api.git)
-   cd doc-video-api
